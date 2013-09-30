@@ -1,0 +1,82 @@
+[
+{
+className: "twochainz",
+displayName: "2 chainz",
+keyCode: null,
+audioFiles: [
+"2chainz_4.ogg",
+"2chainz_4.mp3"
+],
+isNew: false
+},
+{
+className: "twochainz",
+displayName: "2 chainz",
+keyCode: null,
+audioFiles: [
+"2chainz_yeah2.ogg",
+"2chainz_yeah2.mp3"
+],
+isNew: true
+},
+{
+className: "tupac",
+displayName: "2pac",
+keyCode: null,
+audioFiles: [
+"2pac_4.ogg",
+"2pac_4.mp3"
+],
+isNew: false
+},
+{
+className: "tupac",
+displayName: "2pac",
+keyCode: null,
+audioFiles: [
+"2pac_5.ogg",
+"2pac_5.mp3"
+],
+isNew: false
+},
+{
+className: "tupac",
+displayName: "2pac",
+keyCode: null,
+audioFiles: [
+"2pac_6.ogg",
+"2pac_6.mp3"
+],
+isNew: false
+},
+{
+className: "fiftycent",
+displayName: "50 Cent",
+keyCode: 49,
+audioFiles: [
+"50_5.ogg",
+"50_5.mp3"
+],
+isNew: false
+},
+{
+className: "fiftycent",
+displayName: "50 Cent",
+keyCode: null,
+audioFiles: [
+"50_8.ogg",
+"50_8.mp3"
+],
+isNew: true
+},
+{
+className: "fiftycent",
+displayName: "50 Cent",
+keyCode: 49,
+audioFiles: [
+"50_11.ogg",
+"50_11.mp3"
+],
+isNew: false
+}
+]

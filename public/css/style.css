@@ -1,0 +1,31 @@
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+
+.container { padding-top: 40px; }
+
+.rapper-face {
+  display: block;
+  position: relative;
+  width: 116px;
+  margin: 0 auto;
+  -webkit-transition: all .2s ease-in-out;
+      -ms-transition: all .2s ease-in-out;
+          transition: all .2s ease-in-out;
+  -webkit-filter: grayscale(100%);
+     -moz-filter: grayscale(100%);
+          filter: grayscale(100%);
+}
+
+.rapper-face:hover {
+  -webkit-transform: scale(1.25);
+  -ms-transform: scale(1.25);
+  transform: scale(1.25);
+  -webkit-filter: grayscale(0%);
+     -moz-filter: grayscale(0%);
+          filter: grayscale(0%);
+}
+
+.rapper-name {
+  text-align: center;
+}

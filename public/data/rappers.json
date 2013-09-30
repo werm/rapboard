@@ -1,0 +1,110 @@
+[{
+  "className": "tupac",
+  "displayName": "2Pac",
+  "keyCode": null,
+  "audioFiles": [
+    "tupac.ogg",
+    "tupac.mp3"
+  ],
+  "isNew": false
+},{
+  "className": "twochainz",
+  "displayName": "2 chainz",
+  "keyCode": null,
+  "audioFiles": [
+    "2chainz_4.ogg",
+    "2chainz_4.mp3"
+  ],
+  "isNew": false
+},{
+  "className": "oldirty",
+  "displayName": "Ol Dirty",
+  "keyCode": null,
+  "audioFiles": [
+    "oldirty.ogg",
+    "oldirty.mp3"
+  ],
+  "isNew": false
+},{
+  "className": "ghostface",
+  "displayName": "Ghostface Killah",
+  "keyCode": null,
+  "audioFiles": [
+    "ghostface.ogg",
+    "ghostface.mp3"
+  ],
+  "isNew": false
+},{
+  "className": "raekwon",
+  "displayName": "Raekwon",
+  "keyCode": null,
+  "audioFiles": [
+    "raekwon.ogg",
+    "raekwon.mp3"
+  ],
+  "isNew": false
+},{
+  "className": "willsmith",
+  "displayName": "Will Smith",
+  "keyCode": null,
+  "audioFiles": [
+    "willsmith.ogg",
+    "willsmith.mp3"
+  ],
+  "isNew": false
+},{
+  "className": "liljon",
+  "displayName": "Lil Jon",
+  "keyCode": null,
+  "audioFiles": [
+    "liljon.ogg",
+    "liljon.mp3"
+  ],
+  "isNew": false
+},{
+  "className": "natedogg",
+  "displayName": "Nate Dogg",
+  "keyCode": null,
+  "audioFiles": [
+    "natedogg.ogg",
+    "natedogg.mp3"
+  ],
+  "isNew": false
+},{
+  "className": "notoriousbig",
+  "displayName": "Notorious B.I.G.",
+  "keyCode": null,
+  "audioFiles": [
+    "notoriousbig.ogg",
+    "notoriousbig.mp3"
+  ],
+  "isNew": false
+},{
+  "className": "dmx",
+  "displayName": "DMX",
+  "keyCode": null,
+  "audioFiles": [
+    "dmx.ogg",
+    "dmx.mp3"
+  ],
+  "isNew": false
+},{
+  "className": "jayz",
+  "displayName": "Jay Z",
+  "keyCode": null,
+  "audioFiles": [
+    "jayz.ogg",
+    "jayz.mp3"
+  ],
+  "isNew": false
+},{
+  "className": "krsone",
+  "displayName": "KRS One",
+  "keyCode": null,
+  "audioFiles": [
+    "krsone.ogg",
+    "krsone.mp3"
+  ],
+  "isNew": false
+}
+]

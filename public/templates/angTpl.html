@@ -1,0 +1,21 @@
+<div ng-app="RapBoard">
+  <div class="container">
+    <div ng-controller="RapperCtrl">
+      <div id="rappers" class="row">
+        <h4>Angular</h4>
+        <ul class="large-block-grid-4">
+          <li ng-repeat="rapper in rappers">
+            <a ng-click="playAudio(rapper.className)">
+              <img class="rapper-face" ng-src="/img/{{ rapper.className }}.png">
+            </a>
+            <h4 class="rapper-name">{{ rapper.displayName }}</h4>
+            <audio preload="false" id="audio-{{rapper.className}}">
+              <source ng-src="/audio/{{rapper.className}}.mp3"></source>
+              <source ng-src="/audio/{{rapper.className}}.ogg"></source>
+              Your browser isn't invited for super fun audio time.
+            </audio>
+          </li>
+        </ul>
+    </div>
+  </div>
+</div>

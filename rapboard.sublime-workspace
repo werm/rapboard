@@ -1,0 +1,1282 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rap",
+				"rapper_id"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"c",
+				"className"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"init_",
+				"init_load"
+			],
+			[
+				"get",
+				"get_scroll"
+			],
+			[
+				"alb",
+				"album_dir"
+			],
+			[
+				"init",
+				"init_load"
+			],
+			[
+				"post",
+				"post-list"
+			],
+			[
+				"pos",
+				"post-list"
+			],
+			[
+				"hash",
+				"hash"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"data",
+				"data-downs"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"album",
+				"album_regex"
+			],
+			[
+				"fi",
+				"file_name"
+			],
+			[
+				"file",
+				"file"
+			],
+			[
+				"thu",
+				"thumb"
+			],
+			[
+				"modal",
+				"modal_id"
+			],
+			[
+				"all",
+				"all_posts"
+			],
+			[
+				"s",
+				"sub_id"
+			],
+			[
+				"crea",
+				"created_at"
+			],
+			[
+				"po",
+				"post"
+			],
+			[
+				"red",
+				"reddit_id"
+			],
+			[
+				"se",
+				"selftext"
+			],
+			[
+				"redd",
+				"reddit_api_url"
+			],
+			[
+				"asse",
+				"assets"
+			],
+			[
+				"dow",
+				"downs"
+			],
+			[
+				"selft",
+				"selftext_html"
+			],
+			[
+				"su",
+				"subreddit"
+			],
+			[
+				"gr",
+				"group"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"tas",
+				"tasksGroupBy4"
+			],
+			[
+				"nes",
+				"nestedObj"
+			],
+			[
+				"ne",
+				"nestedObj"
+			],
+			[
+				"fre",
+				"frequency"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"fu",
+				"full_img_container"
+			],
+			[
+				"im",
+				"img_url"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"coll",
+				"collection"
+			],
+			[
+				"mong",
+				"mongo_client"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"ga",
+				"gallery"
+			],
+			[
+				"galler",
+				"galleries"
+			],
+			[
+				"gall",
+				"gallery"
+			],
+			[
+				"thi",
+				"this"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"or",
+				"original"
+			],
+			[
+				"load",
+				"loading"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"img",
+				"img_regex"
+			],
+			[
+				"collage",
+				"collagePlus"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"slid",
+				"slide_id"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sli",
+				"slide_id"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"spl",
+				"split_url"
+			],
+			[
+				"orig",
+				"original_url"
+			],
+			[
+				"imgu",
+				"imgurGallery"
+			],
+			[
+				"v",
+				"v"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"en",
+				"endif"
+			],
+			[
+				"scr",
+				"script_tag"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"sty",
+				"stylesheet_tag"
+			],
+			[
+				"al",
+				"alerts"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"cle",
+				"clear-night"
+			],
+			[
+				"CL",
+				"CLEAR_DAY"
+			],
+			[
+				"ic",
+				"iconOut"
+			],
+			[
+				"ale",
+				"alertInfo"
+			],
+			[
+				"te",
+				"tempreature"
+			],
+			[
+				"ap",
+				"api_key"
+			],
+			[
+				"ext",
+				"extended"
+			],
+			[
+				"lin",
+				"linkTo"
+			],
+			[
+				"dir",
+				"directory"
+			],
+			[
+				"Reddit",
+				"RedditPics"
+			],
+			[
+				"pu",
+				"push-up"
+			],
+			[
+				"ju",
+				"jumpingJacks"
+			],
+			[
+				"jum",
+				"jumpingJacks"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"page",
+				"page_params"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"marg",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bower.json",
+			"settings":
+			{
+				"buffer_size": 170,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 819,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/app.js",
+			"settings":
+			{
+				"buffer_size": 63,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/templates/angTpl.html",
+			"settings":
+			{
+				"buffer_size": 811,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/templates/jqTpl.html",
+			"settings":
+			{
+				"buffer_size": 139,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/app-jquery.js",
+			"settings":
+			{
+				"buffer_size": 1131,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/app-angular.js",
+			"settings":
+			{
+				"buffer_size": 573,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/style.css",
+			"settings":
+			{
+				"buffer_size": 724,
+				"line_ending": "Unix",
+				"name": "[ng\\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cl"
+			}
+		},
+		{
+			"file": "public/data/rappers.json",
+			"settings":
+			{
+				"buffer_size": 1869,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"cdn",
+				"Cdnjs: Import Script"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/craigwermert/Sites/reddit/archive/public/js/libs/angular.js",
+		"/Users/craigwermert/Sites/reddit/archive/app/bower_components/classie/bower.json",
+		"/Users/craigwermert/Sites/reddit/archive/views/posts.jst.tpl",
+		"/Users/craigwermert/Sites/reddit/archive/Gemfile",
+		"/Users/craigwermert/Sites/reddit/archive/public/js/app/app.js",
+		"/Users/craigwermert/Sites/reddit/archive/public/js/app/scroll.js",
+		"/Users/craigwermert/Sites/reddit/archive/public/js/app/posts.js",
+		"/Users/craigwermert/Sites/reddit/archive/archive.rb",
+		"/Users/craigwermert/Sites/reddit/archive/views/album.bldr",
+		"/Users/craigwermert/Sites/reddit/archive/update_albums.rb",
+		"/Users/craigwermert/Sites/reddit/archive/db/migrate/20130921114345_posts.rb",
+		"/Users/craigwermert/Sites/reddit/archive/resize.rb",
+		"/Users/craigwermert/Sites/reddit/archive/config.ru",
+		"/Users/craigwermert/.zshrc",
+		"/Users/craigwermert/Sites/reddit/archive/views/boxer.scss",
+		"/Users/craigwermert/Sites/reddit/archive/config/database.yml",
+		"/Users/craigwermert/Sites/reddit/archive/views/subreddit.jst.tpl",
+		"/Users/craigwermert/Sites/reddit/archive/public/js/libs/davis.js",
+		"/Users/craigwermert/Sites/reddit/archive/public/js/libs/jquery.js",
+		"/Users/craigwermert/Sites/reddit/archive/public/js/posts.js",
+		"/Users/craigwermert/Sites/reddit/archive/public/js/libs/pace.js",
+		"/Users/craigwermert/Sites/reddit/archive/public/js/libs/packery.js",
+		"/Users/craigwermert/Sites/reddit/archive/imgur.rb",
+		"/Users/craigwermert/Sites/reddit/archive/views/modal.scss",
+		"/Users/craigwermert/Sites/reddit/archive/views/boxer.css",
+		"/Users/craigwermert/Sites/reddit/archive/public/js/libs/boxer.js",
+		"/Users/craigwermert/Sites/reddit/archive/public/js/libs/modal.js",
+		"/Users/craigwermert/Sites/reddit/archive/archive_development_2013-09-24.sql",
+		"/Users/craigwermert/Sites/reddit/archive/db/migrate/20130924224446_posts_title.rb",
+		"/Users/craigwermert/Sites/reddit/archive/db/migrate/20130924224446_ChangeTitleStringToText.rb",
+		"/Users/craigwermert/Sites/reddit/archive/public/js/libs/popup.js",
+		"/Users/craigwermert/Sites/reddit/archive/views/posts/index.erb",
+		"/Users/craigwermert/Sites/reddit/archive/public/js/libs/succinct.js",
+		"/Users/craigwermert/Sites/reddit/archive/public/js/libs/tinysory.js",
+		"/Users/craigwermert/Sites/reddit/archive/views/posts/all.erb",
+		"/Users/craigwermert/Sites/reddit/archive/views/filter.jst.tpl",
+		"/Users/craigwermert/Sites/reddit/archive/app.rb",
+		"/Users/craigwermert/Sites/reddit/archive/views/main.scss",
+		"/Users/craigwermert/Sites/reddit/archive/views/layout.erb",
+		"/Users/craigwermert/Sites/reddit/archive/public/js/app.js",
+		"/Users/craigwermert/Sites/reddit/archive/Rakefile",
+		"/Users/craigwermert/Sites/reddit/archive/Procfile",
+		"/Users/craigwermert/Sites/reddit/archive/public/js/libs/unveil.js",
+		"/Users/craigwermert/Sites/reddit/archive/public/js/libs/echo.js",
+		"/Users/craigwermert/Sites/reddit/archive/public/js/libs/list.js",
+		"/Users/craigwermert/Sites/reddit/archive/views/_mixins.scss",
+		"/Users/craigwermert/Sites/reddit/archive/views/_grid_settings.scss",
+		"/Users/craigwermert/Sites/reddit/archive/public/js/libs/omniwindow.js",
+		"/Users/craigwermert/Sites/reddit/archive/public/js/moment.js",
+		"/Users/craigwermert/Sites/reddit/archive/views/templates/hello.jst.tpl",
+		"/Users/craigwermert/Sites/reddit/archive/public/js/movies.json",
+		"/Users/craigwermert/Sites/reddit/archive/public/assets/scss/main.scss",
+		"/Users/craigwermert/Sites/reddit/archive/views/assets/scss/main.scss",
+		"/Users/craigwermert/Sites/reddit/archive/public/sass/main.sass",
+		"/Users/craigwermert/Sites/reddit/archive/public/main.scss",
+		"/Users/craigwermert/Sites/reddit/archive/public/css/main.css",
+		"/Users/craigwermert/Sites/reddit/archive/db/migrate/create_posts.rb",
+		"/Users/craigwermert/Sites/reddit/archive/db.rake",
+		"/Users/craigwermert/Sites/finance/public/templates/reddit.html",
+		"/Users/craigwermert/Sites/finance/public/js/insta-api.js",
+		"/Users/craigwermert/Sites/finance/public/counties.json",
+		"/Users/craigwermert/Library/Caches/Cleanup At Startup/Transmit/C98CA16A-8088-4A6E-91AB-5579F7098D83/cart.html",
+		"/Users/craigwermert/Sites/usasoy/uss/app/assets/stylesheets/application.css.scss",
+		"/Users/craigwermert/.oh-my-zsh/themes/craig.zsh-theme",
+		"/Users/craigwermert/Sites/side-proj/angular-app/public/controller/controllers.js",
+		"/Users/craigwermert/Sites/side-proj/angular-app/public/App.js",
+		"/Users/craigwermert/Sites/side-proj/angular-app/public/view/reddit.html",
+		"/Users/craigwermert/Sites/side-proj/angulareddit/app.rb",
+		"/Users/craigwermert/Sites/side-proj/angulareddit/js/controllers.js",
+		"/Users/craigwermert/Sites/side-proj/angular-app/public/view/userView.html",
+		"/Users/craigwermert/Sites/side-proj/interview/wordpreblem.txt",
+		"/Users/craigwermert/Sites/side-proj/interview/words.rb",
+		"/Users/craigwermert/Sites/side-proj/interview/index.html",
+		"/Users/craigwermert/Sites/side-proj/angular-app/view/view2.html",
+		"/Users/craigwermert/Sites/side-proj/angular-app/app/index.html",
+		"/Users/craigwermert/Sites/side-proj/cms/public/js/templates/new.html",
+		"/Users/craigwermert/Sites/side-proj/cms/views/pages/page.erb",
+		"/Users/craigwermert/Sites/side-proj/cms/.bowerrc",
+		"/Users/craigwermert/Sites/side-proj/cms/bower.json",
+		"/Users/craigwermert/Sites/side-proj/cms/views/_normalize.scss",
+		"/Users/craigwermert/Sites/side-proj/cms/views/delete.slim",
+		"/Users/craigwermert/Sites/side-proj/cms/views/edit.slim",
+		"/Users/craigwermert/Sites/side-proj/cms/views/new.slim",
+		"/Users/craigwermert/Sites/side-proj/cms/views/form.slim",
+		"/Users/craigwermert/Sites/side-proj/cms/views/index.slim",
+		"/Users/craigwermert/Sites/side-proj/cms/views/show.slim",
+		"/Users/craigwermert/Sites/side-proj/cms/views/layout.slim",
+		"/Users/craigwermert/Sites/side-proj/cms/views/admin.slim",
+		"/Users/craigwermert/Sites/side-proj/cms/mongoid.yml",
+		"/Users/craigwermert/Sites/side-proj/cms/Gemfile",
+		"/Users/craigwermert/Sites/side-proj/cms/views/assets/stylesheets/styles.scss",
+		"/Users/craigwermert/Sites/side-proj/cms/views/pages.slim",
+		"/Users/craigwermert/Sites/side-proj/cms/index.slim",
+		"/Users/craigwermert/Sites/reddit/everything-app/public/css/editor.css",
+		"/Users/craigwermert/Sites/reddit/everything-app/public/css/menu.css",
+		"/Users/craigwermert/Sites/reddit/everything-app/vendor/bundle/gems/ruby_reddit_api-0.2.6/lib/ruby_reddit_api/base.rb",
+		"/Users/craigwermert/Sites/side-proj/reddit/public/js/collage.js",
+		"/Users/craigwermert/Sites/side-proj/reddit/public/js/wrapInChunks.js",
+		"/Users/craigwermert/Sites/side-proj/reddit/views/root.erb",
+		"/Users/craigwermert/Sites/side-proj/reddit/views/root.haml",
+		"/Users/craigwermert/Sites/side-proj/reddit/public/main.css",
+		"/Users/craigwermert/Sites/side-proj/reddit/Rakefile",
+		"/Users/craigwermert/Sites/side-proj/reddit/config/database.yml",
+		"/Users/craigwermert/Sites/side-proj/reddit/helpers.rb",
+		"/Users/craigwermert/Sites/side-proj/reddit/app.rb",
+		"/Users/craigwermert/Sites/side-proj/reddit/config.ru",
+		"/Users/craigwermert/Sites/side-proj/reddit/models.rb",
+		"/Users/craigwermert/Sites/side-proj/reddit/.rvmrc",
+		"/Users/craigwermert/Sites/side-proj/reddit/db/migrate/001_initial.rb",
+		"/Users/craigwermert/Sites/side-proj/forecast/public/js/collage.js",
+		"/Users/craigwermert/Sites/side-proj/emberreddit/js/app.js",
+		"/Users/craigwermert/Sites/side-proj/forecast/public/js/redditloader.js",
+		"/Users/craigwermert/Sites/side-proj/forecast/public/js/glide.js",
+		"/Users/craigwermert/Sites/side-proj/forecast/public/css/bootstrap.css",
+		"/Users/craigwermert/Sites/side-proj/forecast/public/css/loading.css",
+		"/Users/craigwermert/Sites/side-proj/forecast/public/css/style.css",
+		"/Users/craigwermert/Sites/side-proj/forecast/public/js/skycons.js",
+		"/Users/craigwermert/Sites/side-proj/forecast/public/js/dummyData.json",
+		"/Users/craigwermert/Sites/side-proj/ember/js/libs/ember-data.js",
+		"/Users/craigwermert/Sites/reddit/scraper/scraper.rb",
+		"/Volumes/Storage/Dropbox/gp-gallery.js",
+		"/Users/craigwermert/Sites/blog/js/app.js",
+		"/Users/craigwermert/Sites/blog/js/pagify.js",
+		"/Users/craigwermert/Sites/blog/_includes/root",
+		"/Users/craigwermert/Sites/blog/_plugins/git.rb",
+		"/Volumes/Storage/Documents/speed.sh",
+		"/Users/craigwermert/Sites/side/7min/assets/js/vendor/director.js",
+		"/Users/craigwermert/Sites/wiki/app/models/user.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/craigwermert/Sites/uss",
+			"/Users/craigwermert/Sites/side-proj/angular-app",
+			"/Users/craigwermert/Sites/side-proj/cms",
+			"/Users/craigwermert/Sites/reddit/everything-app/vendor/bundle/gems/ruby_reddit_api-0.2.6",
+			"~/Sites/biorestor.com",
+			"~/Sites/corr/blog_two, *.js.coffee",
+			"~/Sites/corr/blog_two"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"]}",
+			"{[",
+			"Blog",
+			"Recipe",
+			"BreakfastRoll",
+			"  ",
+			"{[}",
+			"<%= ",
+			"%>",
+			"<% ",
+			"bower_components",
+			"'",
+			"&quot;",
+			"UPS",
+			"data-echo",
+			"Movie",
+			"Theater",
+			"message",
+			"Message",
+			"Medical",
+			"slim",
+			"Page",
+			"page",
+			"\"=>\"",
+			"root",
+			", \"",
+			"    ",
+			"[data-section='']:not([data-section-resized]):not([data",
+			"    ",
+			"], ",
+			"hide",
+			"hideThumb",
+			"message",
+			"Message",
+			"message",
+			"#",
+			"Add a new page",
+			"this_user",
+			"/about.json",
+			"conso",
+			"image_url",
+			"url",
+			"    ",
+			"\"",
+			"jQuery",
+			"    ",
+			".rslides",
+			",",
+			"i ",
+			"imgur",
+			"    ",
+			"url",
+			"    ",
+			"input-large",
+			":age",
+			"_tag",
+			"../images/",
+			"flowp",
+			"Our Product",
+			"imgMonsterARun",
+			" Biorestor ",
+			"Entry",
+			"Raffler",
+			"Entry",
+			"user",
+			"User",
+			"task",
+			"description",
+			"Task",
+			"task",
+			"Task",
+			"task",
+			"Task",
+			"(?s)#.+?^",
+			"task",
+			"#{post",
+			"task",
+			"t_id",
+			"task_id",
+			"Task",
+			"entries",
+			"name",
+			"entry",
+			"Entry"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"}}",
+			"{{",
+			"Archive",
+			"Post",
+			"Archive",
+			"Post",
+			"  ",
+			"{[ }",
+			"{{ ",
+			"}}",
+			"{[",
+			"../app/bower_components",
+			"",
+			"\"",
+			"data-src",
+			"Post",
+			"Reddit",
+			"post",
+			"Post",
+			"erb",
+			"Post",
+			"post",
+			" :",
+			"  ",
+			"visuallyhidden",
+			"page",
+			"Page",
+			"page",
+			"  ",
+			"'",
+			"$",
+			"  ",
+			".slider",
+			"  ",
+			"gal",
+			"  ",
+			"input-large form-control",
+			":status",
+			"",
+			"../images/videoplayer/",
+			"imgSkelWave",
+			" BIORESTOR* ",
+			"Post",
+			"post",
+			"Post",
+			"post",
+			"body",
+			"Post",
+			"post",
+			"Post",
+			"post",
+			"Post",
+			"",
+			"post",
+			"@post",
+			"post",
+			"p_id",
+			"post_id",
+			"Post",
+			"posts",
+			"title",
+			"post",
+			"Post"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bower.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								163,
+								163
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 819,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								432,
+								432
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/templates/angTpl.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								148
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/templates/jqTpl.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "public/js/app-jquery.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "public/js/app-angular.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 573,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								399,
+								399
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "public/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 724,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"auto_name": "[ng\\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cl",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "public/data/rappers.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1869,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1838,
+								1838
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 987.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "rapboard.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app",
+				"public/js/app.js"
+			],
+			[
+				"bow",
+				"app/bower_components/classie/bower.json"
+			],
+			[
+				"scr",
+				"public/js/app/scroll.js"
+			],
+			[
+				"inde",
+				"views/posts/index.erb"
+			],
+			[
+				"lay",
+				"views/layout.erb"
+			],
+			[
+				"m",
+				"views/main.scss"
+			],
+			[
+				"pos",
+				"public/js/posts.js"
+			],
+			[
+				"post",
+				"views/posts.jst.tpl"
+			],
+			[
+				"all",
+				"views/posts/all.erb"
+			],
+			[
+				"app.",
+				"app.rb"
+			],
+			[
+				"a",
+				"archive.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"pro",
+				"Procfile"
+			],
+			[
+				"mai",
+				"public/sass/main.sass"
+			],
+			[
+				"found",
+				"public/css/foundation.css"
+			],
+			[
+				"g",
+				"Gemfile"
+			],
+			[
+				"show",
+				"views/show.slim"
+			],
+			[
+				"sty",
+				"public/css/style.css"
+			],
+			[
+				"rak",
+				"Rakefile"
+			],
+			[
+				"congi",
+				"config.ru"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"applica",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"pa",
+				"app/models/page.rb"
+			],
+			[
+				"pag",
+				"app/models/page.rb"
+			],
+			[
+				"revi",
+				"app/models/revision.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"appli",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"appl",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
